@@ -4,7 +4,8 @@ Belajar JavaScript
 - JavaScript dan DOM
 - JavaScript lanjutan
 - Framework JavaScript
-  ^ vue
-  ^ react
+  ^ Angular
+  ^ React
 - Membuat game menggunakan JavaScript
-  ^ game pukul tikus tanah
+  ^ Game pukul tikus tanah
+
