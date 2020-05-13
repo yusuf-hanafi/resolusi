@@ -4,3 +4,4 @@ Belajar JavaScript
 - JavaScript dan DOM
 - JavaScript lanjutan
 - Framework JavaScript
+- Membuat game menggunakan JavaScript
